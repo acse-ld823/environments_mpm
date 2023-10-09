@@ -1,4 +1,3 @@
-from envtest import rand_array
 from envtest import my_mat_solve
 
 from sympy.matrices import Matrix, MatrixSymbol
